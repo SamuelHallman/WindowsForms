@@ -1,0 +1,54 @@
+C:\Users\Riki\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Riki\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Riki\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Riki\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Riki\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Riki\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Riki\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Riki\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Riki\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Riki\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Riki\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Riki\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FlowlayoutButtonForm.resources
+C:\Users\Riki\Documents\GitHub\3002ryhma3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Riki\Documents\GitHub\3002ryhma3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Riki\Documents\GitHub\3002ryhma3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Riki\Documents\GitHub\3002ryhma3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Riki\Documents\GitHub\3002ryhma3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Riki\Documents\GitHub\3002ryhma3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FlowlayoutButtonForm.resources
+C:\Users\Riki\Documents\GitHub\3002ryhma3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Riki\Documents\GitHub\3002ryhma3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Riki\Documents\GitHub\3002ryhma3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Riki\Documents\GitHub\3002ryhma3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Riki\Documents\GitHub\3002ryhma3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Riki\Documents\GitHub\3002ryhma3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Riki\Documents\GitHub\3002ryhma3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.task.resources
+C:\Users\Riki\Documents\GitHub\3002ryhma3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Teamview.resources
+C:\Users\Riki\Documents\GitHub\3002ryhma3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Project.resources
+C:\Users\Riki\Documents\GitHub\3002ryhma3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\Riki\Documents\GitHub\3002ryhma3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Sprint_Form.resources
+C:\Users\Riki\Documents\GitHub\3002ryhma3\WindowsFormsApp2\bin\Debug\ketterakanta.accdb
+C:\Users\Riki\Documents\GitHub\3002ryhma3\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Riki\Documents\GitHub\3002ryhma3\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Riki\Documents\GitHub\3002ryhma3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\samue\Desktop\KOULU 2022 Syksy\Ketterä ohjelmistokehitysprojekti\3002ryhma3\WindowsFormsApp2\bin\Debug\ketterakanta.accdb
+C:\Users\samue\Desktop\KOULU 2022 Syksy\Ketterä ohjelmistokehitysprojekti\3002ryhma3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\samue\Desktop\KOULU 2022 Syksy\Ketterä ohjelmistokehitysprojekti\3002ryhma3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\samue\Desktop\KOULU 2022 Syksy\Ketterä ohjelmistokehitysprojekti\3002ryhma3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\samue\Desktop\KOULU 2022 Syksy\Ketterä ohjelmistokehitysprojekti\3002ryhma3\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\samue\Desktop\KOULU 2022 Syksy\Ketterä ohjelmistokehitysprojekti\3002ryhma3\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\samue\Desktop\KOULU 2022 Syksy\Ketterä ohjelmistokehitysprojekti\3002ryhma3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\samue\Desktop\KOULU 2022 Syksy\Ketterä ohjelmistokehitysprojekti\3002ryhma3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\samue\Desktop\KOULU 2022 Syksy\Ketterä ohjelmistokehitysprojekti\3002ryhma3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FlowlayoutButtonForm.resources
+C:\Users\samue\Desktop\KOULU 2022 Syksy\Ketterä ohjelmistokehitysprojekti\3002ryhma3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\samue\Desktop\KOULU 2022 Syksy\Ketterä ohjelmistokehitysprojekti\3002ryhma3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\samue\Desktop\KOULU 2022 Syksy\Ketterä ohjelmistokehitysprojekti\3002ryhma3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Sprint_Form.resources
+C:\Users\samue\Desktop\KOULU 2022 Syksy\Ketterä ohjelmistokehitysprojekti\3002ryhma3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Project.resources
+C:\Users\samue\Desktop\KOULU 2022 Syksy\Ketterä ohjelmistokehitysprojekti\3002ryhma3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\samue\Desktop\KOULU 2022 Syksy\Ketterä ohjelmistokehitysprojekti\3002ryhma3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.task.resources
+C:\Users\samue\Desktop\KOULU 2022 Syksy\Ketterä ohjelmistokehitysprojekti\3002ryhma3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Teamview.resources
+C:\Users\samue\Desktop\KOULU 2022 Syksy\Ketterä ohjelmistokehitysprojekti\3002ryhma3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\samue\Desktop\KOULU 2022 Syksy\Ketterä ohjelmistokehitysprojekti\3002ryhma3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\samue\Desktop\KOULU 2022 Syksy\Ketterä ohjelmistokehitysprojekti\3002ryhma3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\samue\Desktop\KOULU 2022 Syksy\Ketterä ohjelmistokehitysprojekti\3002ryhma3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\samue\Desktop\KOULU 2022 Syksy\Ketterä ohjelmistokehitysprojekti\3002ryhma3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
